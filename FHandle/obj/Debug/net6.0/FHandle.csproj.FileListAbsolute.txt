@@ -1,0 +1,15 @@
+D:\C# Programs\FHandle\bin\Debug\net6.0\FHandle.exe
+D:\C# Programs\FHandle\bin\Debug\net6.0\FHandle.deps.json
+D:\C# Programs\FHandle\bin\Debug\net6.0\FHandle.runtimeconfig.json
+D:\C# Programs\FHandle\bin\Debug\net6.0\FHandle.dll
+D:\C# Programs\FHandle\bin\Debug\net6.0\FHandle.pdb
+D:\C# Programs\FHandle\obj\Debug\net6.0\FHandle.csproj.AssemblyReference.cache
+D:\C# Programs\FHandle\obj\Debug\net6.0\FHandle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programs\FHandle\obj\Debug\net6.0\FHandle.AssemblyInfoInputs.cache
+D:\C# Programs\FHandle\obj\Debug\net6.0\FHandle.AssemblyInfo.cs
+D:\C# Programs\FHandle\obj\Debug\net6.0\FHandle.csproj.CoreCompileInputs.cache
+D:\C# Programs\FHandle\obj\Debug\net6.0\FHandle.dll
+D:\C# Programs\FHandle\obj\Debug\net6.0\refint\FHandle.dll
+D:\C# Programs\FHandle\obj\Debug\net6.0\FHandle.pdb
+D:\C# Programs\FHandle\obj\Debug\net6.0\FHandle.genruntimeconfig.cache
+D:\C# Programs\FHandle\obj\Debug\net6.0\ref\FHandle.dll
